@@ -63,11 +63,11 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik1772&show_icons=true&locale=en&layout=compact" alt="karthik1772" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=karthik1772&show_icons=true&locale=en&layout=compact" alt="karthik1772" />
 </p>
 
 <p>&nbsp;
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=karthik1772&show_icons=true&locale=en" alt="karthik1772" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik1772&show_icons=true&locale=en" alt="karthik1772" />
 </p>
 
 <p>
