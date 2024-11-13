@@ -31,7 +31,14 @@
     </tr>
   </table>
 </center>
+### 🏆 Achievements
 
+- 🥉 **3rd Place in National Mathematics Day Competition 2022**
+- 🏆 **Champion of Tecothon by Algoriz Club**
+- 🥇 **1st Place in Fusion Tecathon 3.0 - AIML Domain**
+- 💼 **Internship as C++ Developer at InternPe**
+  
+---
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://x.com/karthik__177" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="karthik__177" height="30" width="40" /></a>
