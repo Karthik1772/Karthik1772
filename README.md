@@ -34,7 +34,7 @@
 🏆 Achievements
 
 - 🥉 **3rd Place in National Mathematics Day Competition 2022**
-- 🏆 **Champion of Tecothon by Algoriz Club**
+- 🏆 **1st Place in Tecothon by Algoriz Club**
 - 🥇 **1st Place in Fusion Tecathon 3.0 - AIML Domain**
 - 💼 **Internship as C++ Developer at InternPe**
   
