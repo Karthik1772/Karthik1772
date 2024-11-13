@@ -31,7 +31,7 @@
     </tr>
   </table>
 </center>
-### 🏆 Achievements
+🏆 Achievements
 
 - 🥉 **3rd Place in National Mathematics Day Competition 2022**
 - 🏆 **Champion of Tecothon by Algoriz Club**
@@ -67,7 +67,7 @@
 </p>
 
 <p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=karthik1772&show_icons=true&locale=en" alt="karthik1772" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=karthik1772&show_icons=true&locale=en" alt="karthik1772" />
 </p>
 
 <p>
