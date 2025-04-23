@@ -40,17 +40,16 @@
 ## 🧠 Tech & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="50" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
+  <img src="https://isocpp.org/assets/images/cpp_logo.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="50"/>
+  <img src="https://www.oracle.com/a/tech/img/cb88-java-logo-001.jpg" width="50"/>
+  <img src="https://storage.googleapis.com/dart-archive/channels/stable/release/latest/sdk/dartsdk-linux-x64-release.zip.sig" width="50"/>
+  <img src="https://storage.googleapis.com/flutter-website/website/images/flutter-logo-sharing.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="50"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" alt="HTML"/>
+  <img src="https://www.linux.org/images/logo.png" width="50"/>
+  <img src="https://static.figma.com/app/icon/1/favicon.svg" width="50"/>
   <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" width="50" alt="Canva"/>
-
 </p>
 
 ## 🌐 Connect with Me
