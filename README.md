@@ -26,8 +26,9 @@
 
 - 🥉 3rd Place – National Mathematics Day, 2022  
 - 🏆 1st Place – Tecothon (CSE Dept), 2023  
-- 🥇 1st Place – Fusion Techathon 3.0 – AIML Domain, 2024  
-- 💼 Internship – C++ Developer @ InternPe  
+- 🥇 1st Place – Fusion Techathon 3.0 – Open Innovation, 2024  
+- 💼 Internship – C++ Developer @ InternPe
+- 💼 Internship – Research Intern @ IIIT Dharward 
 
 ## 📱 Featured Projects
 
@@ -36,6 +37,7 @@
 | **[Doozy](https://github.com/Karthik1772/Doozy)** |Doozy ("Do Easy") is a to-do application designed to simplify task management|Flutter|
 | **[XoXo](https://github.com/Karthik1772/XoXo.git)** |XoXo is a customized and fun take on the classic Tic Tac Toe game. Built with Flutter|Flutter|
 | **[Xpenso](https://github.com/Karthik1772/Xpenso.git)** |Xpenso is a personalized expense tracker app designed to help users manage their daily finances|Flutter|
+| **[Formify](https://github.com/Karthik1772/Formify.git)** |Formify is a Flutter-based digital form app developed during a IIIT Dharwad internship to promote eco-friendly, paperless data collection and reduce individual carbon footprints|Flutter|
 
 ## 🧠 Tech & Tools
 
