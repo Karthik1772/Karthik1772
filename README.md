@@ -25,7 +25,7 @@
 ## 🏆 Highlights
 
 - 🥉 3rd Place – National Mathematics Day, 2022  
-- 🏆 1st Place – Tecothon (CSE Dept), 2023  
+- 🏆 1st Place – Technova (CSE Dept), 2023  
 - 🥇 1st Place – Fusion Techathon 3.0 – Open Innovation, 2024  
 - 💼 Internship – C++ Developer @ InternPe
 - 💼 Internship – Research Intern @ IIIT Dharward 
