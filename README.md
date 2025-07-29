@@ -5,7 +5,8 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Flutter+Apps...;Loving+Open+Source...;Learning+Full-Stack...;Solving+Real+Problems!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=Building+Flutter+Apps...;Building+Next.js+Web+Apps...;Loving+Open+Source...;Learning+Full-Stack...;Solving+Real+Problems!" alt="Typing SVG" />
+
 </p>
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=karthik1772&label=Profile%20views&color=orange&style=flat" alt="profile views" />
