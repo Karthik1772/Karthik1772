@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/66934377/223913733-deb1d974-787d-43c4-b60d-eff538aa161e.gif" width="100%" alt="welcome banner" />
 
 <h1 align="center">Hey Folks! 👋 I'm Karthik S Kashyap</h1>
-<h3 align="center">🚀 Passionate about building impactful apps and contributing to the open-source community. Currently exploring advanced concepts in Mobile & Web Development, and building real-world projects with modern technologies!</h3>
+<h3 align="center">🚀 Passionate about building impactful web & apps and contributing to the open-source community. Currently exploring advanced concepts in Mobile & Web Development, and building real-world projects with modern technologies!</h3>
 
 
 <p align="center">
