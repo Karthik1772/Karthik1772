@@ -51,7 +51,6 @@
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="50" alt="Tailwind CSS"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50"/> 
   <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" width="50" alt="Next.js"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="50"/>
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="50"/>
   <img src="https://static.canva.com/web/images/12487a1e0770d29351bd4ce4f87ec8fe.svg" width="50" alt="Canva"/>
 </p>
